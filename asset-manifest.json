@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/star-war-characters-app/static/css/main.50684c33.css",
+    "main.js": "/star-war-characters-app/static/js/main.9b84049e.js",
+    "index.html": "/star-war-characters-app/index.html",
+    "main.50684c33.css.map": "/star-war-characters-app/static/css/main.50684c33.css.map",
+    "main.9b84049e.js.map": "/star-war-characters-app/static/js/main.9b84049e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50684c33.css",
+    "static/js/main.9b84049e.js"
+  ]
+}
